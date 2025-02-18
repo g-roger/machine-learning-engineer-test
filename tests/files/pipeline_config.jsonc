@@ -1,0 +1,15 @@
+
+            {
+                "steps": {
+                    "step1": {
+                        "QuantileTransformer": {
+                            "n_quantiles": 100,
+                            "output_distribution": "normal"
+                        }
+                    },
+                    "step2": {
+                        "StandardScaler": {}
+                    }
+                }
+            }
+            

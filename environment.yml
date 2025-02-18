@@ -1,0 +1,10 @@
+name: shapeenv
+channels:
+  - defaults
+dependencies:
+  - python=3.8.13
+  - scikit-learn=1.0.2
+  - pandas
+  - pyarrow
+  - coverage
+prefix: /Users/gabrielroger/opt/anaconda3/envs/shapeenv
